@@ -1,0 +1,1 @@
+Vehicle logs table added.
